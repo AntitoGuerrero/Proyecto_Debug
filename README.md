@@ -1,1 +1,1 @@
-# EVALUACIÓN DE IMPACTO - PROYECTO "PASATE A LED"
+# Evaluación de Impacto — Programa “Pasate a Led” (GCBA)
