@@ -1,8 +1,5 @@
 # 📊 Evaluación de Impacto — Programa “Pasate a Led” (GCBA)
 
-## 📍 Descripción general
-Este repositorio contiene el tablero de Power BI y los insumos utilizados para analizar el impacto del programa “Pasate a Led”, implementado por el Gobierno de la Ciudad de Buenos Aires (GCBA) entre 2017 y 2019. El objetivo principal es ofrecer una herramienta de evaluación para funcionarios, técnicos, analistas y estudiantes interesados en la medición de resultados y la toma de decisiones basada en evidencia.
-
 ## 📍 Objetivo del proyecto
 Analizar el impacto del programa “Pasate a Led”, orientado a reducir los efectos medioambientales del consumo eléctrico mediante el recambio gratuito de lámparas tradicionales por lámparas LED. El análisis busca identificar patrones de participación ciudadana, ahorro energético y distribución territorial de los beneficios.
 
