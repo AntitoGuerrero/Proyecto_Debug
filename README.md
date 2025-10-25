@@ -47,10 +47,10 @@ Esta visualización presenta la información disponible en el tablero y su prop�
 <img width="333" height="149" alt="image" src="https://github.com/user-attachments/assets/58694126-d27e-4a2f-b093-6a492f6d1f16" />
 
 2. ### El programa en números
-  💹 Ahorro promedio por punto verde (gráfico de anillos)
-  💹 Cantidad de hogares participantes por comuna (barras)
-  💹 Promedio de lámparas intercambiadas por año (barras)
-  💹 Filtros: punto verde, zona, comuna, año, semestre
+   - Ahorro promedio por punto verde (gráfico de anillos)
+   - Cantidad de hogares participantes por comuna (barras)
+   - Promedio de lámparas intercambiadas por año (barras)
+   - Filtros: punto verde, zona, comuna, año, semestre
 
 <img width="320" height="154" alt="image" src="https://github.com/user-attachments/assets/8d420151-148a-4ece-813c-31772132aeab" />
 
