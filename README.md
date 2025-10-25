@@ -25,18 +25,18 @@ Se utilizó una base de datos provista por el GCBA, procesada y modelada en Powe
 *Las relaciones entre tablas fueron identificadas automáticamente por Power BI, sin necesidad de crear tablas puente. Se realizaron transformaciones menores, como el ajuste del tipo de variable para los identificadores.*
 
 ## 📍 Variables y medidas calculadas
-💹 **Medidas principales**:
+- **Medidas principales**:
   - *Ahorro promedio por punto verde* (kWh)
   - *Cantidad de puntos verdes activos*
   - *Promedio de lámparas intercambiadas por punto verde*
   - *Cantidad de lámparas por año y punto verde*
   - *$$ Invertido por año (ajustado por inflación para años posteriores a 2017)*
 
-💹 **Columnas calculadas**:
+- **Columnas calculadas**:
   - *Nivel de ahorro*: Categorización de cada actividad en “alto” o “bajo” según el promedio general.
   - *Zonas*: Agrupación de comunas en norte, centro y sur según la segmentación estratégica del GCBA.
 
-💹 **Medidas avanzadas**:
+- **Medidas avanzadas**:
   - *Cálculo de inversión ajustada por inflación* (supuesto: evolución de precios igual a inflación general).
   - *Análisis de correlación entre ahorro energético, cantidad de lámparas y hogares participantes (limitado por las capacidades de DAX para calcular coeficientes de correlación)*
     
@@ -60,11 +60,11 @@ Distribución geográfica del ahorro energético por zonas y puntos verdes. El t
 <img width="317" height="167" alt="image" src="https://github.com/user-attachments/assets/2b9b8a0a-bb97-4d1b-9e7b-c5c3dc5f5699" />
 
 4. ### Análisis de impacto
-💹 **Gráfico de dispersión**:
-  - Eje X: ahorro energético
-  - Eje Y: cantidad de lámparas
-  - Tamaño de burbuja: cantidad de hogares participantes
-  - Línea de tendencia para visualizar correlación positiva entre variables
+**Gráfico de dispersión**
+  - *Eje X*: ahorro energético
+  - *Eje Y*: cantidad de lámparas
+  - *Tamaño de burbuja*: cantidad de hogares participantes
+  - *Línea de tendencia para visualizar correlación positiva entre variables*
 
 <img width="316" height="161" alt="image" src="https://github.com/user-attachments/assets/b53f700d-9aef-4934-99e9-5b0dcb79e13f" />
 
