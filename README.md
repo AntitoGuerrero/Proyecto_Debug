@@ -41,18 +41,22 @@ Diagrama entidad-relación: assets/diagrama_entidad_relacion.png
 ## Visualizaciones principales del tablero
 1. ### Índice y navegación principal
 Esta visualización presenta la información disponible en el tablero y su propósito: “Evaluar para tomar decisiones”.
-Imagen: assets/indice_tablero.png
+
+<img width="333" height="149" alt="image" src="https://github.com/user-attachments/assets/58694126-d27e-4a2f-b093-6a492f6d1f16" />
 
 2. ### El programa en números
   - Ahorro promedio por punto verde (gráfico de anillos)
   - Cantidad de hogares participantes por comuna (barras)
   - Promedio de lámparas intercambiadas por año (barras)
   - Filtros: punto verde, zona, comuna, año, semestre
-Imagen: assets/programa_en_numeros.png
+
+<img width="320" height="154" alt="image" src="https://github.com/user-attachments/assets/8d420151-148a-4ece-813c-31772132aeab" />
 
 3. ### Mapa del ahorro
 Distribución geográfica del ahorro energético por zonas y puntos verdes. El tamaño y color de los círculos indican el desempeño relativo de cada punto verde respecto al promedio.
-Imagen: assets/mapa_ahorro.png
+
+<img width="317" height="167" alt="image" src="https://github.com/user-attachments/assets/2b9b8a0a-bb97-4d1b-9e7b-c5c3dc5f5699" />
+
 
 4. ### Análisis de impacto
 **Gráfico de dispersión**:
@@ -60,7 +64,9 @@ Imagen: assets/mapa_ahorro.png
   - Eje Y: cantidad de lámparas
   - Tamaño de burbuja: cantidad de hogares participantes
   - Línea de tendencia para visualizar correlación positiva entre variables
-Imagen: assets/analisis_impacto.png
+
+<img width="316" height="161" alt="image" src="https://github.com/user-attachments/assets/b53f700d-9aef-4934-99e9-5b0dcb79e13f" />
+
 
 ## Alcances y potencial del tablero
   - Permite identificar zonas y comunas con mayor participación y ahorro.
