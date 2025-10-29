@@ -13,7 +13,7 @@ El programa incentivó el recambio de lámparas en “puntos verdes”, espacios
 Los vecinos acudían a estos puntos para intercambiar lámparas tradicionales por LED de manera gratuita.
 
 ## 📍 Metodología y fuentes de datos
-Se utilizó una base de datos provista por el GCBA, procesada y modelada en Power BI. (AGREGAR VÍNCULO DATASET)
+Se utilizó un [dataset](http://data.buenosaires.gob.ar/dataset/programa-pasate-a-led) provisto por el GCBA, posteriormente procesado y modelado en Power BI.
 
 *El modelo relacional incluye tres tablas principales*:
 1. **Tabla de Actividad**: Registra la cantidad de lámparas LED entregadas por punto verde y período, junto con hogares beneficiados y ahorro energético estimado.
