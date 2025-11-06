@@ -66,10 +66,10 @@ Se utilizó un [***dataset***](http://data.buenosaires.gob.ar/dataset/programa-p
 - **Datos socioeconómicos**: Ausencia de datos sobre ingresos por comuna/zonas.
 - **Enfoque descriptivo**: El tablero es principalmente descriptivo y su mayor valor es simbólico.
 
-## Reflexiones finales
+## 📍 Reflexiones finales
 El tablero permite visualizar el alcance y el ahorro energético generado por el programa, pero también evidencia la 
-🚨**importancia** 🚨 de contar con ***datos de referencia y variables socioeconómicas***  para una evaluación integral. 
+*importancia* de contar con ***datos de referencia y variables socioeconómicas***  para una evaluación integral. 
 
-🤓 **El diseño y la evaluación de políticas públicas deben estar en diálogo permanente para maximizar el impacto y la equidad de las intervenciones.**
+🚨***El diseño y la evaluación de políticas públicas deben estar en diálogo permanente para maximizar el impacto y la equidad de las intervenciones.***
 
 
